@@ -4,7 +4,7 @@
 #
 Name     : pypi-molecule_docker
 Version  : 1.1.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/30/c1/d58e6a568dae0be27de734a631e3202d0b882542a6a2a19d7288d446fc1b/molecule-docker-1.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/30/c1/d58e6a568dae0be27de734a631e3202d0b882542a6a2a19d7288d446fc1b/molecule-docker-1.1.0.tar.gz
 Summary  : Molecule aids in the development and testing of Ansible roles
@@ -79,7 +79,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1649787814
+export SOURCE_DATE_EPOCH=1649811839
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
