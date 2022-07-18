@@ -1,5 +1,5 @@
 PKG_NAME := pypi-molecule_docker
-URL = https://files.pythonhosted.org/packages/30/c1/d58e6a568dae0be27de734a631e3202d0b882542a6a2a19d7288d446fc1b/molecule-docker-1.1.0.tar.gz
+URL = https://files.pythonhosted.org/packages/65/ce/e8ffe18bef0720157bdc22a58567a86792957d3ab3d6b956c0f488e33561/molecule-docker-2.0.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
