@@ -7,7 +7,7 @@
 #
 Name     : pypi-molecule_docker
 Version  : 2.1.0
-Release  : 19
+Release  : 20
 URL      : https://files.pythonhosted.org/packages/ff/39/73b6222cf3bfef0f07a8cf03e558bfa723b2ff706664fa26393d6b628e28/molecule-docker-2.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ff/39/73b6222cf3bfef0f07a8cf03e558bfa723b2ff706664fa26393d6b628e28/molecule-docker-2.1.0.tar.gz
 Summary  : Molecule aids in the development and testing of Ansible roles
